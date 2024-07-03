@@ -22,6 +22,7 @@ paragraph.style.borderColor = "red";
 let corn =document.getElementById("conditionals");
 corn.style.backgroundColor = "blue";
 corn.style.paddingBlock = "20px";
+corn.style.borderColor="yellow";
 corn.innerHTML ="I can condition my elements";
 
 let learn = document.getElementById("learning");

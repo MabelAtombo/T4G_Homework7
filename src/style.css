@@ -1,5 +1,13 @@
 h1{
-    background-color: orangered;
+    background-color: orangered ;
     text-align: center;
+    border: 10px solid brown;
+    
+}
+p{
+    background-color: orangered ;
+    text-align: center;
+    border: 10px solid brown;
+    font-size: 35px;
     
 }

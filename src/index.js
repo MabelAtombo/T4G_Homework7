@@ -25,6 +25,8 @@ corn.style.paddingBlock = "20px";
 corn.innerHTML ="I can condition my elements";
 
 let learn = document.getElementById("learning");
-learn.style.backgroundColor ="pink";
-learn.innerHTML ="My DOM is Doming"
+learn.style.backgroundColor ="red";
+learn.innerHTML ="My DOM is Doming";
+learn.style.padding="15px";
+learn.style.borderColor="blue";
 
